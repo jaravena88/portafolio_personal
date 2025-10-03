@@ -16,10 +16,10 @@ Se emplea el dataset `german_credit_data.csv` como base de entrenamiento y valid
 ## 🗂️ Estructura del Proyecto
 ```
 03_Scoring_crediticio_con_RN_profundas/
-│── funciones.py              # Funciones auxiliares (preprocesamiento, métricas, entrenamiento)
-│── german_credit_data.csv    # Dataset de crédito alemán
-│── Notebook_03.ipynb         # Desarrollo principal del proyecto
-│── requirements.txt          # Librerías necesarias
+├─ german_credit_data.csv    # Dataset de crédito alemán
+├─ funciones.py              # Funciones auxiliares
+├─ Notebook_03.ipynb         # Desarrollo principal del proyecto
+└─ requirements.txt          # Librerías necesarias
 ```
 
 ---
@@ -59,5 +59,6 @@ Si bien ofrecen mayor capacidad de representación, requieren **cuidadoso prepro
    ```
 
 ---
+
 
 ✍️ Autor: **José Aravena**
