@@ -6,8 +6,7 @@ Aquí presento algunos de mis proyectos más relevantes desarrollados durante mi
 ---
 
 ## 👨‍💻 Sobre mí
-Soy Ingeniero en Control e Instrumentación con más de 12 años de experiencia en proyectos eléctricos y automatización de procesos industriales.  
-En los últimos años he complementado mi trayectoria con formación en **Ciencia de Datos y Machine Learning**, aplicando modelos predictivos, técnicas de interpretabilidad y metodologías MLOps.  
+Soy Ingeniero en Control e Instrumentación con más de 12 años de experiencia en proyectos eléctricos y automatización de procesos industriales. En los últimos años he complementado mi trayectoria con formación en **Ciencia de Datos y Machine Learning**, aplicando modelos predictivos, técnicas de interpretabilidad y metodologías MLOps.  
 
 Mis intereses profesionales incluyen:
 - Modelado predictivo aplicado a negocios y procesos industriales.  
@@ -20,17 +19,17 @@ Mis intereses profesionales incluyen:
 
 ### 1️⃣ Interpretabilidad de Scoring Crediticio
 
-🔹 **Descripción:**
+🔹 **Descripción:**   
 Este proyecto aplica modelos de clasificación (Regresión Logística con regularización) para predecir riesgo crediticio y utiliza técnicas de interpretabilidad como **SHAP** y **LIME**.
 
-🎯 **Objetivo:**
+🎯 **Objetivo:**   
 Analizar qué variables influyen en la decisión de otorgar un crédito y cómo comunicar los resultados de manera transparente.
 
 🛠️ **Tecnologías:** Python, scikit-learn, SHAP, LIME, Matplotlib, Seaborn.
 
 📌 **Código y Notebook:** [Ver notebook](./01_Interpretabilidad_de_scoring_crediticio/Notebook_01.ipynb)
 
-🧠 **Reflexión:**
+🧠 **Reflexión:**   
 Aprendí la importancia de la interpretabilidad para decisiones sensibles como el otorgamiento de créditos, destacando el valor de explicar los modelos a usuarios no técnicos.
 
 ---
@@ -72,6 +71,7 @@ Profundicé en el entrenamiento y evaluación de redes neuronales, comprendiendo
 - 🌐 LinkedIn: [linkedin.com/in/jose-aravena](https://www.linkedin.com/in/jos%C3%A9-aravena/)
 
 - 📧 Email: josearavena.arenas@gmail.com
+
 
 
 
