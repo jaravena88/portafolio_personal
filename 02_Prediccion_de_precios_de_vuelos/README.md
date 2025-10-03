@@ -13,7 +13,7 @@ Se implementan técnicas de Machine Learning y optimización de hiperparámetros
 
 ---
 
-## 🗂️ Estructura del Proyecto
+## 📂 Estructura del Proyecto
 ```
 02_Prediccion_de_precios_de_vuelos/
 ├─ business.xlsx         # Dataset de vuelos clase business
@@ -64,4 +64,3 @@ La predicción de precios es un ejemplo de aplicación práctica con gran impact
 
 
 ✍️ Autor: **José Aravena**
-
