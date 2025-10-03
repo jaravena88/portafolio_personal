@@ -13,7 +13,7 @@ Se emplea el dataset `german_credit_data.csv` como base de entrenamiento y valid
 
 ---
 
-## 🗂️ Estructura del Proyecto
+## 📂 Estructura del Proyecto
 ```
 03_Scoring_crediticio_con_RN_profundas/
 ├─ german_credit_data.csv    # Dataset de crédito alemán
