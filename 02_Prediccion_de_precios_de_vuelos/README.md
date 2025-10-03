@@ -16,11 +16,11 @@ Se implementan técnicas de Machine Learning y optimización de hiperparámetros
 ## 🗂️ Estructura del Proyecto
 ```
 02_Prediccion_de_precios_de_vuelos/
-│── business.xlsx         # Dataset de vuelos clase business
-│── economy.xlsx          # Dataset de vuelos clase economy
-│── funciones.py          # Funciones auxiliares (carga, limpieza, métricas)
-│── Notebook_02.ipynb     # Desarrollo principal del proyecto
-│── requirements.txt      # Librerías necesarias
+├─ business.xlsx         # Dataset de vuelos clase business
+├─ economy.xlsx          # Dataset de vuelos clase economy
+├─ funciones.py          # Funciones auxiliares
+├─ Notebook_01.ipynb     # Desarrollo principal del proyecto
+└─ requirements.txt      # Librerías necesarias
 ```
 
 ---
@@ -61,5 +61,6 @@ La predicción de precios es un ejemplo de aplicación práctica con gran impact
    ```
 
 ---
+
 
 ✍️ Autor: **José Aravena**
