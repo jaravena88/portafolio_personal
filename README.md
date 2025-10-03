@@ -19,11 +19,16 @@ Mis intereses profesionales incluyen:
 ## 🚀 Proyectos Destacados
 
 ### 1️⃣ Interpretabilidad de Scoring Crediticio
-📌 **Descripción:**  Este proyecto aplica modelos de clasificación (Regresión Logística con regularización) para predecir riesgo crediticio y utiliza técnicas de interpretabilidad como **SHAP** y **LIME**.  
-📌 **Objetivo:**  Analizar qué variables influyen en la decisión de otorgar un crédito y cómo comunicar los resultados de manera transparente.  
-📌 **Tecnologías:** Python, scikit-learn, SHAP, LIME, Matplotlib, Seaborn.  
-📌 **Código y Notebook:** [Ver notebook](./01_Interpretabilidad_de_scoring_crediticio/Notebook_01.ipynb)  
-📌 **Reflexión:**  Aprendí la importancia de la interpretabilidad para decisiones sensibles como el otorgamiento de créditos, destacando el valor de explicar los modelos a usuarios no técnicos.
+
+🔹 **Descripción:**  Este proyecto aplica modelos de clasificación (Regresión Logística con regularización) para predecir riesgo crediticio y utiliza técnicas de interpretabilidad como **SHAP** y **LIME**.
+
+🎯 **Objetivo:**  Analizar qué variables influyen en la decisión de otorgar un crédito y cómo comunicar los resultados de manera transparente.
+
+🛠️ **Tecnologías:** Python, scikit-learn, SHAP, LIME, Matplotlib, Seaborn.
+
+📌 **Código y Notebook:** [Ver notebook](./01_Interpretabilidad_de_scoring_crediticio/Notebook_01.ipynb)
+
+🧠 **Reflexión:**  Aprendí la importancia de la interpretabilidad para decisiones sensibles como el otorgamiento de créditos, destacando el valor de explicar los modelos a usuarios no técnicos.
 
 ---
 
@@ -64,4 +69,5 @@ Profundicé en el entrenamiento y evaluación de redes neuronales, comprendiendo
 - 🌐 LinkedIn: [linkedin.com/in/jose-aravena](https://www.linkedin.com/in/jos%C3%A9-aravena/)
 
 - 📧 Email: josearavena.arenas@gmail.com
+
 
