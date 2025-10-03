@@ -35,25 +35,35 @@ Aprendí la importancia de la interpretabilidad para decisiones sensibles como e
 ---
 
 ### 2️⃣ Predicción de Precios de Vuelos
-📌 **Descripción:**  
-Implementación de un modelo predictivo para estimar precios de vuelos a partir de datos históricos.  
-📌 **Objetivo:**  
-Optimizar la estimación de costos de pasajes aéreos mediante técnicas de regresión y selección de hiperparámetros.  
-📌 **Tecnologías:** Python, scikit-learn, Random Forest, XGBoost, GridSearchCV, Optuna.  
-📌 **Código y Notebook:** [Ver notebook](./02_Prediccion_de_precios_de_vuelos/Notebook_02.ipynb)  
-📌 **Reflexión:**  
+
+🔹 **Descripción:**  
+Implementación de un modelo predictivo para estimar precios de vuelos a partir de datos históricos.
+
+🎯 **Objetivo:**  
+Optimizar la estimación de costos de pasajes aéreos mediante técnicas de regresión y selección de hiperparámetros.
+
+🛠️ **Tecnologías:** Python, scikit-learn, Random Forest, XGBoost, GridSearchCV, Optuna.
+
+📌 **Código y Notebook:** [Ver notebook](./02_Prediccion_de_precios_de_vuelos/Notebook_02.ipynb)
+
+🧠 **Reflexión:**  
 Este proyecto reforzó mis habilidades en la optimización de modelos de Machine Learning y en la selección de hiperparámetros.
 
 ---
 
 ### 3️⃣ Scoring Crediticio con Redes Neuronales Profundas
-📌 **Descripción:**  
-Proyecto de clasificación binaria aplicado al scoring crediticio utilizando **Redes Neuronales Profundas**.  
-📌 **Objetivo:**  
-Explorar el potencial de arquitecturas de Deep Learning para mejorar la precisión en la predicción de riesgo financiero.  
-📌 **Tecnologías:** Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib.  
-📌 **Código y Notebook:** [Ver notebook](./03_Scoring_crediticio_con_RN_profundas/Notebook_03.ipynb)  
-📌 **Reflexión:**  
+
+🔹 **Descripción:**  
+Proyecto de clasificación binaria aplicado al scoring crediticio utilizando **Redes Neuronales Profundas**.
+
+🎯 **Objetivo:**  
+Explorar el potencial de arquitecturas de Deep Learning para mejorar la precisión en la predicción de riesgo financiero.
+
+🛠️ **Tecnologías:** Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib.
+
+📌 **Código y Notebook:** [Ver notebook](./03_Scoring_crediticio_con_RN_profundas/Notebook_03.ipynb)
+
+🧠 **Reflexión:**  
 Profundicé en el entrenamiento y evaluación de redes neuronales, comprendiendo los desafíos de overfitting y la importancia del preprocesamiento de datos.
 
 ---
@@ -71,6 +81,7 @@ Profundicé en el entrenamiento y evaluación de redes neuronales, comprendiendo
 - 🌐 LinkedIn: [linkedin.com/in/jose-aravena](https://www.linkedin.com/in/jos%C3%A9-aravena/)
 
 - 📧 Email: josearavena.arenas@gmail.com
+
 
 
 
