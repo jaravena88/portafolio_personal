@@ -42,7 +42,7 @@ El enfoque busca no solo obtener buenas métricas de predicción, sino también 
 
 ---
 
-## 🤔 Reflexión
+## 🧠 Reflexión
 Este proyecto permitió comprender que en problemas de **riesgo crediticio** no basta con lograr un modelo de alta precisión, sino que es fundamental **explicar las predicciones**.  
 La interpretabilidad aporta confianza tanto a los analistas como a los usuarios finales, ayudando a tomar decisiones más responsables y justas.
 
@@ -60,5 +60,6 @@ La interpretabilidad aporta confianza tanto a los analistas como a los usuarios 
    ```
 
 ---
+
 
 ✍️ Autor: **José Aravena**
