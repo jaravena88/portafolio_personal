@@ -64,5 +64,6 @@ Profundicé en el entrenamiento y evaluación de redes neuronales, comprendiendo
 ---
 
 ## 📬 Contacto
-- 🌐 LinkedIn: [linkedin.com/in/josé-aravena](https://www.linkedin.com/in/jos%C3%A9-aravena/)
+- 🌐 LinkedIn: [linkedin.com/in/jose-aravena](https://www.linkedin.com/in/jos%C3%A9-aravena/)
+
 - 📧 Email: josearavena.arenas@gmail.com
