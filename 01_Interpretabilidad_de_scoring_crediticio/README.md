@@ -17,9 +17,9 @@ El enfoque busca no solo obtener buenas métricas de predicción, sino también 
 ## 🗂️ Estructura del Proyecto
 ```
 01_Interpretabilidad_de_scoring_crediticio/
-│── funciones.py          # Funciones auxiliares (preprocesamiento, métricas, gráficas)
-│── Notebook_01.ipynb     # Desarrollo principal del proyecto
-│── requirements.txt      # Librerías necesarias
+├─ funciones.py          # Funciones auxiliares (preprocesamiento, métricas, gráficas)
+├─ Notebook_01.ipynb     # Desarrollo principal del proyecto
+└─ requirements.txt      # Librerías necesarias
 ```
 
 ---
@@ -63,3 +63,4 @@ La interpretabilidad aporta confianza tanto a los analistas como a los usuarios 
 
 
 ✍️ Autor: **José Aravena**
+
